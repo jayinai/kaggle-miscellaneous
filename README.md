@@ -14,9 +14,122 @@ This is only one list of the whole compilation. For other lists of competitions 
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [Deep Learning](https://github.com/ShuaiW/kaggle-deeplearning)
+* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [The Random Number Grand Challenge](https://www.kaggle.com/c/random-number-grand-challenge)
+
+Mon 31 Mar 2014 – Tue 1 Apr 2014
+
+Decode a sequence of pseudorandom numbers
+
+======
+
+### [Conway's Reverse Game of Life](https://www.kaggle.com/c/conway-s-reverse-game-of-life)
+
+Mon 14 Oct 2013 – Sun 2 Mar 2014
+
+Reverse the arrow of time in the Game of Life
+
+======
+
+### [Packing Santa's Sleigh](https://www.kaggle.com/c/packing-santas-sleigh)
+
+Mon 2 Dec 2013 – Sun 26 Jan 2014
+
+He's making a list, checking it twice; to fill up his sleigh, he needs your advice
+
+======
+
+### [Personalize Expedia Hotel Searches - ICDM 2013](https://www.kaggle.com/c/expedia-personalized-sort)
+
+Tue 3 Sep 2013 – Mon 4 Nov 2013
+
+Learning to rank hotels to maximize purchases
+
+======
+
+### [KDD Cup 2013 - Author-Paper Identification Challenge (Track 1)](https://www.kaggle.com/c/kdd-cup-2013-author-paper-identification-challenge)
+
+Thu 18 Apr 2013 – Wed 26 Jun 2013
+
+Determine whether an author has written a given paper
+
+======
+
+### [Influencers in Social Networks](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network)
+
+Sat 13 Apr 2013 – Sun 14 Apr 2013
+
+Predict which people are influential in a social network
+
+======
+
+### [Predicting Parkinson's Disease Progression with Smartphone Data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data)
+
+Tue 5 Feb 2013 – Wed 27 Mar 2013
+
+Can we objectively measure the symptoms of Parkinson’s disease with a smartphone? We have the data to find out!
+
+======
+
+### [Event Recommendation Engine Challenge](https://www.kaggle.com/c/event-recommendation-engine-challenge)
+
+Fri 11 Jan 2013 – Wed 20 Feb 2013
+
+Predict what events our users will be interested in based on user actions, event metadata, and demographic information.
+
+======
+
+### [Leaping Leaderboard Leapfrogs](https://www.kaggle.com/c/leapfrogging-leaderboards)
+
+Fri 14 Dec 2012 – Fri 8 Feb 2013
+
+Provide creative visualizations of the Kaggle leaderboard
+
+======
+
+### [Visualize the State of Public Education in Colorado](https://www.kaggle.com/c/visualize-the-state-of-education-in-colorado)
+
+Mon 10 Dec 2012 – Sun 20 Jan 2013
+
+Using 3 years of school grading data supplied by the Colorado Department of Education and R-Squared Research, visually uncover trends in the Colorado public school system.
+
+======
+
+### [Traveling Santa Problem](https://www.kaggle.com/c/traveling-santa-problem)
+
+Fri 14 Dec 2012 – Sat 19 Jan 2013
+
+Solve ye olde traveling salesman problem to help Santa Claus deliver his presents
+
+======
+
+### [Facebook II - Mapping the Internet](https://www.kaggle.com/c/facebook-ii)
+
+Wed 24 Oct 2012 – Wed 21 Nov 2012
+
+The Task: you will be given a path which, at one point in the training time period, was an optimal path from node A to B. The question is then to make a probalistic prediction, for each of the 5 test graphs, whether the given path is STILL an optimal path.
+
+======
+
+### [Follow the Money: Investigative Reporting Prospect](https://www.kaggle.com/c/cir-prospect)
+
+Fri 14 Sep 2012 – Mon 15 Oct 2012
+
+Find hidden patterns, connections, and ultimately compelling stories in a treasure trove of data about US federal campaign contributions
+
+======
+
+### [Job Recommendation Challenge](https://www.kaggle.com/c/job-recommendation)
+
+Fri 3 Aug 2012 – Sun 7 Oct 2012
+
+Predict which jobs users will apply to
 
 ======
 
