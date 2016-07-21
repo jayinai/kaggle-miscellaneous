@@ -2,7 +2,7 @@
 
 "Those who cannot remember the past are condemned to repeat it." -- George Santayana
 
-This is a compiled list of Kaggle competitions and their winning solutions for problems that don't fit well in regression, classification, or deep learning regimes. 
+This is a compiled list of Kaggle competitions and their winning solutions for problems that don't fit well in regression, classification, sequence, or image regime. 
 
 The purpose to complie this list is for easier access and therefore learning from the best in data science.
 
