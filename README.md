@@ -14,10 +14,74 @@ This is only one list of the whole compilation. For other lists of competitions 
 
 * Kaggle - [Regression](https://github.com/ShuaiW/kaggle-regression/)
 * Kaggle - [Classification](https://github.com/ShuaiW/kaggle-classification/)
-* Kaggle - [NLP](https://github.com/ShuaiW/kaggle-nlp)
+* Kaggle - [Sequence](https://github.com/ShuaiW/kaggle-sequence)
 * Kaggle - [Image](https://github.com/ShuaiW/kaggle-image)
 
 Hope the compilation can save you efforts and offer you insights. Enjoy!
+
+======
+
+### [Facebook V: Predicting Check Ins](https://www.kaggle.com/c/facebook-v-predicting-check-ins)
+
+Wed 11 May 2016 – Wed 6 Jul 2016
+
+The goal of this competition is to predict which place a person would like to check in to. For the purposes of this competition, Facebook created an artificial world consisting of more than 100,000 places located in a 10 km by 10 km square. For a given set of coordinates, your task is to return a ranked list of the most likely places.
+
+======
+
+### [Expedia Hotel Recommendations](https://www.kaggle.com/c/expedia-hotel-recommendations)
+
+Fri 15 Apr 2016 – Fri 10 Jun 2016
+
+Which hotel type will an Expedia customer book?
+
+======
+
+### [Santa's Stolen Sleigh](https://www.kaggle.com/c/santas-stolen-sleigh)
+
+Tue 1 Dec 2015 – Fri 8 Jan 2016
+
+Given the sleigh's antiquated, weight-limited specifications, your challenge is to optimize the routes and loads Santa will take to and from the North Pole.
+
+======
+
+### [Coupon Purchase Prediction](https://www.kaggle.com/c/coupon-purchase-prediction)
+
+Thu 16 Jul 2015 – Wed 30 Sep 2015
+
+Predict which coupons a customer will buy
+
+======
+
+### [ECML/PKDD 15: Taxi Trajectory Prediction (I)](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i)
+
+Mon 20 Apr 2015 – Wed 1 Jul 2015
+
+Predict the destination of taxi trips based on initial partial trajectories
+
+======
+
+### [Learning Social Circles in Networks](https://www.kaggle.com/c/learning-social-circles)
+
+Mon 24 Nov 2014 – Wed 7 Jan 2015
+
+In this job scheduling problem, you will assign which elves work on which toys, at what time, and for how long. The goal is to complete all of the toys as early as possible, scaled by the natural log of the number of elves that work.
+
+======
+
+### [Helping Santa's Helpers](https://www.kaggle.com/c/helping-santas-helpers)
+
+Tue 6 May 2014 – Tue 28 Oct 2014
+
+Model friend memberships to multiple circles
+
+======
+
+### [Higgs Boson Machine Learning Challenge](https://www.kaggle.com/c/higgs-boson)
+
+Mon 12 May 2014 – Mon 15 Sep 2014
+
+Use the ATLAS experiment to identify the Higgs boson
 
 ======
 
